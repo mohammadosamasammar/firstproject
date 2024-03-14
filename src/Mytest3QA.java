@@ -12,6 +12,7 @@ public class Mytest3QA {
 	WebDriver driver = new ChromeDriver();
 	String myURL = "https://www.saucedemo.com/";
 	String myURL2 = "https://www.google.com";
+	String username = "mohammadosamasammar";
 
 	@BeforeTest
 
